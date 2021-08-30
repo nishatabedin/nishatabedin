@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mdnishatabedin@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1geSDvnIBXAlCnd4Dp6U4DnSVm6-YoWJ0?usp=sharing](https://drive.google.com/drive/folders/1geSDvnIBXAlCnd4Dp6U4DnSVm6-YoWJ0?usp=sharing)
+- 📄 Know about my experiences <a target="_blank" href="https://drive.google.com/drive/folders/1geSDvnIBXAlCnd4Dp6U4DnSVm6-YoWJ0?usp=sharing">Resume</a>
 
 - ⚡ Fun fact **I'm a Geek.**
 
