@@ -1,11 +1,21 @@
 <h1 align="center">Hi 👋, I'm Nishat Abedin</h1>
-<h3 align="center">Full-stack Developer (PHP | JavaScript | Sql)</h3>
+<h3 align="center">Full-stack Developer (PHP | JavaScript | MySql)</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishatabedin" alt="nishatabedin" /></a> </p>
 
-- 🔭 I’m currently working on [Alesha Ride](https://alesharide.com/)
 
-- 🌱 I’m currently learning **React Native**
+- ### Work Experience
+
+**[ApexDMIT](https://apexdmit.com)** (Current Position)
+
+I am currently working at ApexDMIT, where I am involved as an API developer, of a SaaS-based property management solution
+
+**[Alesharide](https://alesharide.com)**
+
+In my previous role at Alesharide, I was responsible for the API development section of a ridesharing app named 'Alesha Ride.' This app emerged as a strong contender in the highly competitive ride-sharing market of Bangladesh, effectively competing against established players such as Pathao and Uber.
+
+
+- 🌱 I'm currently learning **Kubernetes**
 
 - 💬 Ask me about **Laravel or React js**
 
@@ -13,7 +23,6 @@
 
 - 📄 Know about my experiences <a target="_blank" href="https://drive.google.com/drive/folders/1geSDvnIBXAlCnd4Dp6U4DnSVm6-YoWJ0?usp=sharing">Resume</a>
 
-- ⚡ Fun fact **I'm a Geek.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
