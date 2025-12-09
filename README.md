@@ -25,8 +25,7 @@ In my previous role at Alesharide, I was responsible for the API development sec
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nesat-abedin-1b6976179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nesat-abedin-1b6976179" height="30" width="40" /></a>
-<a href="https://fb.com/nishat.abedin.xman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nishat.abedin.xman" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
