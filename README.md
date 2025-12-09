@@ -6,7 +6,7 @@
 
 - ### Work Experience
 
-**[ApexDMIT](https://apexdmit.com)** (Current Position)
+**[ApexDMIT](https://apexdmit.com)** (Sr. Software Engineer)
 
 I am currently working at ApexDMIT, where I am involved as an API developer, of a SaaS-based property management solution
 
